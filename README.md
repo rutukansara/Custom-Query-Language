@@ -106,3 +106,5 @@ JOIN table1 table2 ON common_column
 - The GUI provides a user-friendly interface for executing queries and viewing results. It is a basic implementation and can be enhanced for a more improved performance.
 
 Feel free to explore and experiment with different queries using the Query Executor!
+
+This project was part of the final assignment for the course led by Professor Wensheng Wu at the University of Southern California (USC).
