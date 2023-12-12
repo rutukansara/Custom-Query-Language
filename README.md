@@ -1,4 +1,4 @@
-# Query Executor README
+# Query Executor
 
 ## Overview
 The Query Executor is a Python application that allows users to interact with tabular data using SQL-like commands. It provides a simple command-line interface as well as a graphical user interface (GUI) built with Tkinter. The application supports various operations such as fetching data, defining tables, inserting values, removing rows, aggregating data, grouping by columns, and joining tables.
